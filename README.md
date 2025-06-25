@@ -34,7 +34,6 @@ I specialize in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikder&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-AminSikder&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-url)
