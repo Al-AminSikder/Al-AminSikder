@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi I'm Md. Al-Amin Sikder
 
-<!--
-**Al-AminSikder/Al-AminSikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | 1+ Year Experience
+🎨 Skilled in React, Node.js, MongoDB, TailwindCSS, Firebase
+🤖 Passionate about creating responsive, modern web apps and exploring AI-powered solutions
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+Frontend: React, TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Other: Firebase, Git/GitHub
+
+🌟 What I’m Learning
+Exploring AI/ML integrations for smarter, more engaging web apps.
+
+📫 Reach me
+Email: you@example.com
+
+GitHub: github.com/your-username
+
+Let’s collaborate and build something amazing! 🚀
