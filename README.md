@@ -32,8 +32,8 @@ I specialize in:
 ## 📈 GitHub Stats
 ![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-AminSikder&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikder&layout=compact&theme=radical)
-
+## 🧮 Languages (by Percentage)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikder&layout=pie&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-url)
