@@ -47,9 +47,6 @@ A passionate Full-Stack Web Developer focused on the MERN ecosystem.
 #### 🧮 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikder&layout=compact&theme=radical)
 
-#### 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-AminSikder&theme=radical)
-
 ---
 
 💡 _Thanks for visiting my profile!_  
