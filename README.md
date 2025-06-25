@@ -20,7 +20,6 @@ I specialize in:
 
 ## 🧰 Skills
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
@@ -31,12 +30,11 @@ I specialize in:
 </p>
 
 ## 📈 GitHub Stats
-![AlAmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsernameHere&theme=radical)
+![AlAmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-AminSikderHere&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikderHere&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-AminSikderHere&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-url)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile-url)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat)](https://your-portfolio-url.com)
-
