@@ -17,8 +17,8 @@ Other: Firebase, Git/GitHub
 Exploring AI/ML integrations for smarter, more engaging web apps.
 
 📫 Reach me
-Email: you@example.com
+Email: alaminskdr@gmail.com
 
-GitHub: github.com/your-username
+GitHub: github.com/Al-AminSikder
 
 Let’s collaborate and build something amazing! 🚀
