@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://i.ibb.co/Pss0GjD4/Readme-Banner.gif)
+![banner](https://i.ibb.co/C5b4ZbjY/DDDDD.png)
 
 # Md. Al-Amin Sikder — MERN Stack Developer 💻
 
