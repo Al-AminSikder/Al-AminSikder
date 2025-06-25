@@ -30,9 +30,11 @@ I specialize in:
 </p>
 
 ## 📈 GitHub Stats
-![AlAmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-AminSikderHere&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikderHere&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-AminSikderHere&theme=radical)
+![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-AminSikder&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-AminSikder&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-AminSikder&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-url)
